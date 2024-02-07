@@ -4,5 +4,5 @@
 
 * Initial draft config steps for enabling Truecharts Frigate chart on a TrueNAS Scale Cobia system -> see wiki: https://github.com/vikohub/tn-scale/wiki/Frigate
 
-* Some other topic
+
 
